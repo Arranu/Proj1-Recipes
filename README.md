@@ -1,0 +1,1 @@
+This is a basic HTML website i constructed to put into practise what i learned the first week of following the odin project, I also used this to practise the using the commit process to Github. 
